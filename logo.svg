@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="165 40 270 315" role="img" aria-label="Adagio Therapy logo" xmlns:c2pa="http://c2pa.org/manifest">
+  <title>Adagio Therapy</title>
+  <defs><clipPath id="lc"><circle cx="270" cy="150" r="50"/></clipPath></defs>
+  
+  <circle cx="270" cy="150" r="50" fill="none" stroke="#6F8F82" stroke-width="3.5"/>
+  <circle cx="330" cy="150" r="50" fill="none" stroke="#C47F62" stroke-width="3.5"/>
+  <circle cx="330" cy="150" r="50" fill="#E3B66F" fill-opacity="0.55" clip-path="url(#lc)"/>
+  <path d="M 236 88 Q 300 20 364 88" fill="none" stroke="#3F4A45" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="300" cy="68" r="5" fill="#3F4A45"/>
+  <text x="300" y="274" text-anchor="middle" font-family="'Josefin Sans','Century Gothic','Avenir',sans-serif" font-weight="300" font-size="60" letter-spacing="3" fill="#3F4A45">adagio</text>
+  <text x="300" y="309" text-anchor="middle" font-family="'Josefin Sans','Century Gothic','Avenir',sans-serif" font-weight="400" font-size="15" letter-spacing="9" fill="#6F8F82">THERAPY</text>
+  <text x="300" y="342" text-anchor="middle" font-family="'Josefin Sans','Century Gothic','Avenir',sans-serif" font-weight="300" font-size="14" letter-spacing="1.5" fill="#8A7F73">couples &amp; individual therapy</text>
+</svg>

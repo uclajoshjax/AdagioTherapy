@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="205 45 190 160" role="img" aria-label="Adagio Therapy logo" xmlns:c2pa="http://c2pa.org/manifest">
+  <title>Adagio Therapy</title>
+  <defs><clipPath id="lc"><circle cx="270" cy="150" r="50"/></clipPath></defs>
+  
+  <circle cx="270" cy="150" r="50" fill="none" stroke="#6F8F82" stroke-width="3.5"/>
+  <circle cx="330" cy="150" r="50" fill="none" stroke="#C47F62" stroke-width="3.5"/>
+  <circle cx="330" cy="150" r="50" fill="#E3B66F" fill-opacity="0.55" clip-path="url(#lc)"/>
+  <path d="M 236 88 Q 300 20 364 88" fill="none" stroke="#3F4A45" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="300" cy="68" r="5" fill="#3F4A45"/>
+  
+  
+  
+</svg>

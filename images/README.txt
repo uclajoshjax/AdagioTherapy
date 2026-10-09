@@ -1,0 +1,1 @@
+All photos are optimized copies of your uploads. Descriptive filenames and alt text are already set. To swap one, keep the same filename.
